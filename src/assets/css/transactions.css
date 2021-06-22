@@ -1,0 +1,26 @@
+
+.main-card .manage-header {
+
+}
+
+.thead-transactions {
+    border-top: 1px solid #dee2e6;
+    font-size: large;
+}
+
+.thead-transactions .th {
+    font-size: smaller;
+}
+
+.select-year {
+    max-width: fit-content;
+}
+
+.nav.card-header-tabs.nav-tabs {
+    display: none;
+}
+
+button:focus:not(:focus-visible) {
+    background: #6a59b0;
+    color: white;
+}
